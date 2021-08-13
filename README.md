@@ -1,1 +1,1 @@
-<img src = "./assets/sunset.gif"/>
+<img src = "./assets/coding.svg" width = "500"  align = "center"/>
