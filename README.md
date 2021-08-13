@@ -37,7 +37,7 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 <br>
 
 <p align= "center">
-<a href = "https://discord.gg/Je3pHvGXbK"><code><img width = "48" src = "./assets/discord.png"></code></a> &nbsp; <a href = "https://twitter.com/Aakash43570513"><code><img width = "48" src = "./assets/twitter.png"></code></a> &nbsp; <a href = "https://www.facebook.com/profile.php?id=100027124781287"><code><img width = "48" src = "./assets/messenger.png"></code></a> &nbsp; <a href = "https://stackoverflow.com/users/16659558/aakash"><code><img width = "48" src = "./assets/stack.png"></code></a> &nbsp; 
+<a href = "https://discord.gg/Je3pHvGXbK"><code><img width = "48" src = "./assets/discord.png"></code></a> &nbsp; <a href = "https://twitter.com/Aakash04s"><code><img width = "48" src = "./assets/twitter.png"></code></a> &nbsp; <a href = "https://www.facebook.com/profile.php?id=100027124781287"><code><img width = "48" src = "./assets/messenger.png"></code></a> &nbsp; <a href = "https://stackoverflow.com/users/16659558/aakash"><code><img width = "48" src = "./assets/stack.png"></code></a> &nbsp; 
 </p>
 
 <p align = "center">
