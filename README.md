@@ -12,13 +12,13 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 🎭 I started coding as a hobby.\
 💬 Feel free to reach out to me :)
 
-### Languages & Libraries
+### Languages, Libraries & Other tech
 
-<img width = "40" src = "./assets/javascript.png" /> | <img width = "35" src = "./assets/node.png"/>  | <img width = "40" src = "./assets/html.png"/>| <img width = "40" src = "./assets/git.png"/> | <img width = "40" src = "./assets/djs.png"/>|
-|--|--|--|--|--|
+<img width = "40" src = "./assets/javascript.png" /> | <img width = "35" src = "./assets/node.png"/>  | <img width = "40" src = "./assets/html.png"/>| <img width = "40" src = "./assets/git.png"/> | <img width = "40" src = "./assets/djs.png"/>| <img width = "46" src = "./assets/photoshop.png"> |<img width = "46" src = "./assets/illustrator.png"> |
+|--|--|--|--|--|--|--|
 
 ### Tools
-|<img width = "35" src = "./assets/windows.png"> |<img width = "40" src = "./assets/vsc.png"> | <img width = "35" src = "./assets/brave.png"> |<img width = "40" src = "./assets/heroku.png"> | 
+|<img width = "35" src = "./assets/windows.png"> |<img width = "37" src = "./assets/brave.png"> | <img width = "40" src = "./assets/vsc.png"> |<img width = "40" src = "./assets/heroku.png"> | 
 |--|--|--|--|
 
 
