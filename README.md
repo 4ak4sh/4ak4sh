@@ -29,7 +29,10 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 
 ### 📊 Github Stats
 
- [![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakash04s&show_icons=true)](https://github.com/aakash04s)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aakash04s&theme=dark)](https://github.com/aakash04s)
+ [![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakash04s&show_icons=true)](https://github.com/aakash04s) 
+
+
+
 
 <br>
 
