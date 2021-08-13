@@ -34,7 +34,7 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 
 ---
 
-<h3><p align="center"><code>Connect with me!</code></p></h3>
+<h3><p align="center"><code>🤝🏼 Connect with me!</code></p></h3>
 
 <br>
 
@@ -43,7 +43,7 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 </p>
 
 <p align = "center">
-<a href = "https://www.reddit.com/user/aakash04s"><code><img width = "48" src = "./assets/reddit.png"></code></a> &nbsp; <a href = "https://instagram.com/aakash04s"><code><img width = "48" src = "./assets/instagram.png"></code></a> &nbsp; <a href = "https://github.com/aakash04s"><code><img width = "48" src = "./assets/github.png"></code></a>
+<a href = "https://www.reddit.com/user/aakash04s"><code><img width = "48" src = "./assets/reddit.png"></code></a> &nbsp; <a href = "https://instagram.com/aakash04s"><code><img width = "48" src = "./assets/instagram.png"></code></a> &nbsp; <a href = "https://github.com/aakash04s"><code><img width = "48" src = "./assets/git+.png"></code></a>
 </p>
 
 
