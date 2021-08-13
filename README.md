@@ -1,1 +1,1 @@
-<img src = "./assets/sunset.gif" align = "right" />
+<img src = "./assets/sunset.gif"/>
