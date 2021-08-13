@@ -32,8 +32,6 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
  [![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakash04s&show_icons=true)](https://github.com/aakash04s) 
 
 
-
-
 <br>
 
 ---
