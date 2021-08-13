@@ -7,24 +7,25 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 
 ### About Me!
 
-🔭 I'm currently working on a Discord Bot ([W2G](https://top.gg/bot/845642988024889384)) .\
-🌱 I'm currently learning Node.js.\
+🔭 I'm currently working on a **Discord Bot ([W2G](https://top.gg/bot/845642988024889384))** .\
+🌱 I'm currently learning **Node.js**.\
 🎭 I started coding as a hobby.\
 💬 Feel free to reach out to me :)\
-👯‍♂️ I would love to collaborate with creators.
+👯‍♂️ I would like to collaborate with creators.\
+🎮 Fun fact: I love gaming!
 
-### Languages & Libraries
+### 📚 Languages & Libraries
 
 
 |<img width = "48" src = "./assets/javascript.png" /> | <img width = "37" src = "./assets/node.png"/>  | <img width = "48" src = "./assets/html.png"/>| <img width = "48" src = "./assets/git.png"/> | <img width = "40" src = "./assets/djs.png"/>| 
 |--|--|--|--|--|
 
 
-### Tools
+### 🔨 Tools
 
 <code><img width = "40" src = ./assets/windows.png></code> &nbsp; <code><img width = "40" src = ./assets/brave.png></code> &nbsp; <code><img width = "40" src = ./assets/vsc.png></code> &nbsp; <code><img width = "40" src = ./assets/sublime.png></code> &nbsp; <code><img width = "40" src = ./assets/github.png></code> &nbsp; <code><img width = "40" src = ./assets/heroku.png></code> &nbsp; <code><img width = "45" src = ./assets/mongodb.png></code>
 
-### Github Stats
+### 📊 Github Stats
 
 [![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakash04s&show_icons=true)](https://github.com/aakash04s)
 
