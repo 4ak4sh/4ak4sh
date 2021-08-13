@@ -18,12 +18,13 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 
 
 |<img width = "48" src = "./assets/javascript.png" /> | <img width = "37" src = "./assets/node.png"/>  | <img width = "48" src = "./assets/html.png"/>| <img width = "48" src = "./assets/git.png"/> | <img width = "40" src = "./assets/djs.png"/>| 
-|--|--|--|--|--|
+|--|--|--|--|--| 
+
 
 
 ### 🔨 Tools
 
-<code><img width = "40" src = ./assets/windows.png></code> &nbsp; <code><img width = "40" src = ./assets/brave.png></code> &nbsp; <code><img width = "40" src = ./assets/vsc.png></code> &nbsp; <code><img width = "40" src = ./assets/sublime.png></code> &nbsp; <code><img width = "40" src = ./assets/github.png></code> &nbsp; <code><img width = "40" src = ./assets/heroku.png></code> &nbsp; <code><img width = "45" src = ./assets/mongodb.png></code>
+<code><img width = "40" src = ./assets/windows.png></code> &nbsp; <code><img width = "40" src = ./assets/brave.png></code> &nbsp; <code><img width = "40" src = ./assets/vsc.png></code> &nbsp; <code><img width = "40" src = ./assets/sublime.png></code> &nbsp; <code><img width = "40" src = ./assets/github.png></code> &nbsp; <code><img width = "40" src = ./assets/heroku.png></code> &nbsp; <code><img width = "45" src = ./assets/mongodb.png></code> &nbsp; <code><img width = "45" src = ./assets/photoshop.png></code> &nbsp; <code><img width = "45" src = ./assets/illustrator.png></code>
 
 ### 📊 Github Stats
 
