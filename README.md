@@ -7,12 +7,14 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 
 ### About Me!
 
-🔭 I'm currently working on a **Discord Bot ([W2G](https://top.gg/bot/845642988024889384))** .\
-🌱 I'm currently learning **Node.js**.\
-🎭 I started coding as a hobby.\
-💬 Feel free to reach out to me :)\
-👯‍♂️ I would like to collaborate with creators.\
-🎮 Fun fact: I love gaming!
+```
+● I'm currently working on a Discord Bot.
+● I'm currently learning Node.js.
+● I started coding as a hobby.
+● Feel free to reach out to me :)
+● I would like to collaborate with creators.
+● Fun fact: I love gaming!
+```
 
 ### 📚 Languages & Libraries
 
@@ -34,7 +36,7 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 
 ---
 
-<h3><p align="center"><code>🤝🏼 Connect with me!</code></p></h3>
+<h3><p align="center">🤝 Connect with me</p></h3>
 
 <br>
 
