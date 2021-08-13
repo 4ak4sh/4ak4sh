@@ -11,7 +11,6 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 ● I'm currently working on a Discord Bot.
 ● I'm currently learning Node.js.
 ● I started coding as a hobby.
-● Feel free to reach out to me :)
 ● I would like to collaborate with creators.
 ● Fun fact: I love gaming!
 ```
