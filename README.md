@@ -23,7 +23,8 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 
 ### 🔨 Tools
 
-<code><img width = "40" src = ./assets/windows.png></code> &nbsp; <code><img width = "40" src = ./assets/brave.png></code> &nbsp; <code><img width = "40" src = ./assets/vsc.png></code> &nbsp; <code><img width = "40" src = ./assets/sublime.png></code> &nbsp; <code><img width = "40" src = ./assets/github.png></code> &nbsp; <code><img width = "40" src = ./assets/heroku.png></code> &nbsp; <code><img width = "45" src = ./assets/mongodb.png></code>
+|<img width = "40" src = ./assets/windows.png>| <img width = "40" src = ./assets/brave.png>|<img width = "40" src = ./assets/vsc.png>| <img width = "40" src = ./assets/sublime.png>| <img width = "40" src = ./assets/github.png>| <img width = "40" src = ./assets/heroku.png>| <img width = "45" src = ./assets/mongodb.png>|
+|--|--|--|--|--|--|--|
 
 <br>
 
