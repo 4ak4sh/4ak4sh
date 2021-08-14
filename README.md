@@ -26,7 +26,7 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 <code><img width = "48" src = "./assets/javascript.png" /></code> &nbsp; <code><img width = "45" src = "./assets/node.png"/></code> &nbsp; <code><img width = "48" src = "./assets/html.png"/></code> &nbsp; <code><img width = "48" src = ./assets/css.png></code> &nbsp;  <code><img width = "48" src = "./assets/git.png"/></code> &nbsp; <code><img width = "45" src = "./assets/djs.png"/></code>
 </p>
 
-<h3 >Tools 🔨</h3>
+<h3 align = "center">Tools</h3>
 <p>
 <code><img width = "45" src = ./assets/windows.png></code> &nbsp; <code><img width = "45" src = ./assets/vsc.png></code> &nbsp; <code><img width = "45" src = ./assets/github.png></code> &nbsp; <code><img width = "45" src = ./assets/heroku.png></code> &nbsp; <code><img width = "48" src = ./assets/mongodb.png></code>
 </p>
