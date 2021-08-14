@@ -21,7 +21,6 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 
 
 <h3 align = "right">Languages & Libraries 📚</h3>
-<br>
 
 <p align = "right">
 <code><img width = "48" src = "./assets/javascript.png" /></code> &nbsp; <code><img width = "45" src = "./assets/node.png"/></code> &nbsp; <code><img width = "48" src = "./assets/html.png"/></code> &nbsp; <code><img width = "48" src = ./assets/css.png></code> &nbsp;  <code><img width = "48" src = "./assets/git.png"/></code> &nbsp; <code><img width = "45" src = "./assets/djs.png"/></code>
