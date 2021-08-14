@@ -1,4 +1,4 @@
-<h2>
+<h2 align = "center">
 Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 </h2>
 
@@ -17,13 +17,12 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 <br>
 
 
-<img width = "400" height = "270" align = "left" src = "./assets/nightcoding.gif">
+<img width = "420" height = "260" align = "left" src = "./assets/nightcoding.gif">
 
-<br>
 
 <h3 align = "center">Languages & Libraries</h3>
 
-<p >
+<p align = "center">
 <code><img width = "48" src = "./assets/javascript.png" /></code> &nbsp; <code><img width = "45" src = "./assets/node.png"/></code> &nbsp; <code><img width = "48" src = "./assets/html.png"/></code> &nbsp; <code><img width = "48" src = ./assets/css.png></code> &nbsp;  <code><img width = "48" src = "./assets/git.png"/></code> &nbsp; <code><img width = "45" src = "./assets/djs.png"/></code>
 </p>
 
@@ -34,23 +33,6 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 
 <br>
 
-
-<h3 align = "left">📊 Github Stats</h3>
-
-<p align = "left">
-
-<img src = "https://github-readme-stats.vercel.app/api?username=aakash04s">
-
- </p>
-
-<!--
- ### Other skills 
-
-<img width = "48" src = "./assets/photoshop.png"> &nbsp; <img width = "48" src = "./assets/illustrator.png">
-
--->
-
-<br>
 
 ---
 
