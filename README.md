@@ -20,7 +20,7 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 <img width = "420" height = "260" align = "left" src = "./assets/nightcoding.gif">
 
 
-<h3 align = "center">Languages & Libraries</h3>
+<h3>Languages & Libraries</h3>
 
 <p align = "center">
 <code><img width = "48" src = "./assets/javascript.png" /></code> &nbsp; <code><img width = "45" src = "./assets/node.png"/></code> &nbsp; <code><img width = "48" src = "./assets/html.png"/></code> &nbsp; <code><img width = "48" src = ./assets/css.png></code> &nbsp;  <code><img width = "48" src = "./assets/git.png"/></code> &nbsp; <code><img width = "45" src = "./assets/djs.png"/></code>
