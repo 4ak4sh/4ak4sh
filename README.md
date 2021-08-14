@@ -8,8 +8,8 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 ### About Me!
 
 ```
-● I'm currently working on a Discord Bot (W2G).
 ● I'm currently learning Node.js.
+● I'm currently working on a Discord Bot (W2G).
 ● I started coding as a hobby.
 ● I would like to collaborate with creators.
 ● Fun fact: I love gaming!
@@ -17,8 +17,8 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 
 ### 📚 Languages & Libraries
 
-|<img width = "48" src = "./assets/javascript.png" /> | <img width = "37" src = "./assets/node.png"/>  | <img width = "48" src = "./assets/html.png"/>| <img width = "48" src = "./assets/git.png"/> | <img width = "40" src = "./assets/djs.png"/>| 
-|--|--|--|--|--| 
+|<img width = "48" src = "./assets/javascript.png" /> | <img width = "38" src = "./assets/node.png"/>  | <img width = "48" src = "./assets/html.png"/>|<img width = "48" src = ./assets/css.png> | <img width = "48" src = "./assets/git.png"/> | <img width = "45" src = "./assets/djs.png"/>| 
+|--|--|--|--|--|--|
 
 
 ### 🔨 Tools
