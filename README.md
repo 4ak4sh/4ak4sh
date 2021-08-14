@@ -14,23 +14,41 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 ● I would like to collaborate with creators.
 ● Fun fact: I love gaming!
 ```
-
-### 📚 Languages & Libraries
-
-|<img width = "48" src = "./assets/javascript.png" /> | <img width = "38" src = "./assets/node.png"/>  | <img width = "48" src = "./assets/html.png"/>|<img width = "48" src = ./assets/css.png> | <img width = "48" src = "./assets/git.png"/> | <img width = "45" src = "./assets/djs.png"/>| 
-|--|--|--|--|--|--|
+<br>
 
 
-### 🔨 Tools
-
-|<img width = "45" src = ./assets/windows.png>| <img width = "45" src = ./assets/vsc.png>| <img width = "45" src = ./assets/github.png>| <img width = "45" src = ./assets/heroku.png>| <img width = "48" src = ./assets/mongodb.png>|
-|--|--|--|--|--|
+<img width = "400" height = "270" align = "left" src = "./assets/nightcoding.gif">
 
 
-### 📊 Github Stats
+<h3 align = "right">Languages & Libraries 📚</h3>
+<br>
 
- [![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakash04s&show_icons=true)](https://github.com/aakash04s) 
+<p align = "right">
+<code><img width = "48" src = "./assets/javascript.png" /></code> &nbsp; <code><img width = "45" src = "./assets/node.png"/></code> &nbsp; <code><img width = "48" src = "./assets/html.png"/></code> &nbsp; <code><img width = "48" src = ./assets/css.png></code> &nbsp;  <code><img width = "48" src = "./assets/git.png"/></code> &nbsp; <code><img width = "45" src = "./assets/djs.png"/></code>
+</p>
 
+<h3 align = "right">Tools 🔨</h3>
+<p align = "right" >
+<code><img width = "45" src = ./assets/windows.png></code> &nbsp; <code><img width = "45" src = ./assets/vsc.png></code> &nbsp; <code><img width = "45" src = ./assets/github.png></code> &nbsp; <code><img width = "45" src = ./assets/heroku.png></code> &nbsp; <code><img width = "48" src = ./assets/mongodb.png></code>
+</p>
+
+<br>
+
+
+<h3 align = "left">📊 Github Stats</h3>
+
+<p align = "left">
+
+<img src = "https://github-readme-stats.vercel.app/api?username=aakash04s">
+
+ </p>
+
+<!--
+ ### Other skills 
+
+<img width = "48" src = "./assets/photoshop.png"> &nbsp; <img width = "48" src = "./assets/illustrator.png">
+
+-->
 
 <br>
 
