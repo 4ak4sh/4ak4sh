@@ -27,10 +27,14 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 |<img width = "45" src = ./assets/windows.png>| <img width = "45" src = ./assets/vsc.png>| <img width = "45" src = ./assets/github.png>| <img width = "45" src = ./assets/heroku.png>| <img width = "48" src = ./assets/mongodb.png>|
 |--|--|--|--|--|
 
+<br>
 
-### 📊 Github Stats
+<h3>📊 Github Stats</h3>
 
- [![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakash04s&show_icons=true)](https://github.com/aakash04s) 
+
+| [![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakash04s&show_icons=true)](https://github.com/aakash04s) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aakash04s) |
+|--|--|
+
 
 
 <br>
