@@ -19,6 +19,7 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 
 <img width = "400" height = "270" align = "left" src = "./assets/nightcoding.gif">
 
+<br>
 
 <h3 align = "center">Languages & Libraries</h3>
 
