@@ -28,7 +28,7 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 </p>
 
 <h3 align = "center">Tools</h3>
-<p>
+<p align = "center">
 <code><img width = "45" src = ./assets/windows.png></code> &nbsp; <code><img width = "45" src = ./assets/vsc.png></code> &nbsp; <code><img width = "45" src = ./assets/github.png></code> &nbsp; <code><img width = "45" src = ./assets/heroku.png></code> &nbsp; <code><img width = "48" src = ./assets/mongodb.png></code>
 </p>
 
