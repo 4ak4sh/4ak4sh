@@ -16,20 +16,14 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 ● Fun fact: I love gaming!
 ```
 
-### 📚 Languages & Libraries
+### Languages & Tools
 
-|<img width = "48" src = "./assets/javascript.png" /> | <img width = "38" src = "./assets/node.png"/>  | <img width = "48" src = "./assets/html.png"/>|<img width = "48" src = ./assets/css.png> | <img width = "48" src = "./assets/git.png"/> | <img width = "45" src = "./assets/djs.png"/>| 
-|--|--|--|--|--|--|
-
-
-### 🔨 Tools
-
-|<img width = "45" src = ./assets/windows.png>| <img width = "45" src = ./assets/vsc.png>| <img width = "45" src = ./assets/github.png>| <img width = "45" src = ./assets/heroku.png>| <img width = "48" src = ./assets/mongodb.png>|
-|--|--|--|--|--|
+<img align="left" width="37px" src="./assets/javascript.png" /> <img align="left" width="32px" src="./assets/node.png" /> <img align="left" width="37px" src="./assets/html.png" /> <img align="left" width="37px" src="./assets/css.png" /> <img align="left" width="37px" src="./assets/git.png" /> <img align="left" width="37px" src="./assets/djs.png" /> <img align="left" width="37px" src="./assets/windows.png" /> <img align="left" width="37px" src="./assets/vsc.png" /> <img align="left" width="37px" src="./assets/github.png" /> <img align="left" width="37px" src="./assets/heroku.png" /> <img align="left" width="37px" src="./assets/mongodb.png" />
 
 <br>
+<br>
 
-<h3>📊 Github Stats</h3>
+<h3>Github Stats</h3>
 
 
 | [![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakash04s&show_icons=true)](https://github.com/aakash04s) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aakash04s) |
@@ -46,11 +40,11 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 <br>
 
 <p align= "center">
-<a href = "https://discord.gg/Je3pHvGXbK"><code><img width = "48" src = "./assets/discord.png"></code></a> &nbsp; <a href = "https://twitter.com/Aakash04s"><code><img width = "48" src = "./assets/twitter.png"></code></a> &nbsp; <a href = "https://www.facebook.com/profile.php?id=100027124781287"><code><img width = "48" src = "./assets/facebook.png"></code></a> &nbsp; <a href = "https://stackoverflow.com/users/16659558/aakash"><code><img width = "48" src = "./assets/stack.png"></code></a> &nbsp; 
+<a href = "https://discord.gg/Je3pHvGXbK"><code><img width = "37" src = "./assets/discord.png"></code></a> &nbsp; <a href = "https://twitter.com/Aakash04s"><code><img width = "37" src = "./assets/twitter.png"></code></a> &nbsp; <a href = "https://www.facebook.com/profile.php?id=100027124781287"><code><img width = "37" src = "./assets/facebook.png"></code></a> &nbsp; <a href = "https://stackoverflow.com/users/16659558/aakash"><code><img width = "37" src = "./assets/stack.png"></code></a> &nbsp; 
 </p>
 
 <p align = "center">
-<a href = "https://www.reddit.com/user/aakash04s"><code><img width = "48" src = "./assets/reddit.png"></code></a> &nbsp; <a href = "https://instagram.com/aakash04s"><code><img width = "48" src = "./assets/instagram.png"></code></a> &nbsp; <a href = "https://github.com/aakash04s"><code><img width = "48" src = "./assets/git+.png"></code></a>
+<a href = "https://www.reddit.com/user/aakash04s"><code><img width = "37" src = "./assets/reddit.png"></code></a> &nbsp; <a href = "https://instagram.com/aakash04s"><code><img width = "37" src = "./assets/instagram.png"></code></a> &nbsp; <a href = "https://github.com/aakash04s"><code><img width = "37" src = "./assets/git+.png"></code></a>
 </p>
 
 
