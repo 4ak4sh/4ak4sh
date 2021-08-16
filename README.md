@@ -1,7 +1,16 @@
-
-<h2>
+<p align = center>
+<img width = "200" src = "./assets/programmer.png">
+</p>
+<h2 align = "center">
 Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 </h2>
+
+<p align = "center">
+<a href = "https://discord.gg/Je3pHvGXbK"><img src = "https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href = "https://twitter.com/Aakash04s"><img src = "https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href = "https://instagram.com/aakash04s"><img src = "https://img.shields.io/badge/-Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href = "https://www.reddit.com/user/aakash04s"><img src = "https://img.shields.io/badge/-Reddit-ff4301?style=for-the-badge&logo=reddit&logoColor=white"></a>
+</p>
 
 
 <img width = "225" align= "right" src = "./assets/coding.svg">
