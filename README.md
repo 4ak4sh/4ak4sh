@@ -37,30 +37,11 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 |--|--|--|--|--|--|
 
 
-
 <h3>Github Stats</h3>
 
 
 | [![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakash04s&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true)](https://github.com/aakash04s) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aakash04s&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true) |
 |--|--|
-
-
-
-<br>
-
----
-
-<h3><p align="center"><code>Connect with me</code></p></h3>
-
-<br>
-
-<p align= "center">
-<a href = "https://discord.gg/Je3pHvGXbK"><code><img width = "48" src = "./assets/discord.png"></code></a> &nbsp; <a href = "https://twitter.com/Aakash04s"><code><img width = "48" src = "./assets/twitter.png"></code></a> &nbsp; <a href = "https://www.facebook.com/profile.php?id=100027124781287"><code><img width = "48" src = "./assets/facebook.png"></code></a> &nbsp; <a href = "https://stackoverflow.com/users/16659558/aakash"><code><img width = "48" src = "./assets/stack.png"></code></a> &nbsp; 
-</p>
-
-<p align = "center">
-<a href = "https://www.reddit.com/user/aakash04s"><code><img width = "48" src = "./assets/reddit.png"></code></a> &nbsp; <a href = "https://instagram.com/aakash04s"><code><img width = "48" src = "./assets/instagram.png"></code></a> &nbsp; <a href = "https://github.com/aakash04s"><code><img width = "48" src = "./assets/git+.png"></code></a>
-</p>
 
 
 
