@@ -18,11 +18,8 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 ### About Me!
 
 ```
-● I'm currently learning Node.js.
-● I'm currently working on a Discord Bot (W2G).
+● I'm currently learning full stack development.
 ● I started coding as a hobby.
-● I would like to collaborate with creators.
-● Fun fact: I love gaming!
 ```
 
 ### Tools
