@@ -8,7 +8,7 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 <p align = "center">
 <a href = "https://discord.gg/Je3pHvGXbK"><img src = "https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href = "https://twitter.com/Aakash04s"><img src = "https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href = "https://instagram.com/aakash04s"><img src = "https://img.shields.io/badge/-Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href = "https://instagram.com/4ak4sh"><img src = "https://img.shields.io/badge/-Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "https://www.reddit.com/user/aakash04s"><img src = "https://img.shields.io/badge/-Reddit-ff4301?style=for-the-badge&logo=reddit&logoColor=white"></a>
 </p>
 
@@ -18,14 +18,14 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 ### About Me!
 
 ```
-● I'm currently learning full stack development.
+● I'm currently learning full web stack development.
 ● I started coding as a hobby.
 ```
 
 ### Tools
 
-|<img width = "45" src = ./assets/windows.png>| <img width = "45" src = ./assets/vsc.png>| <img width = "45" src = ./assets/github.png>| <img width = "45" src = ./assets/heroku.png>| <img width = "48" src = ./assets/mongodb.png>|
-|--|--|--|--|--|
+|<img width = "45" src = ./assets/windows.png>| <img width = "45" src = ./assets/vsc.png>| <img width = "48" src = ./assets/mongodb.png>|
+|--|--|--|--|
 
 
 ### Languages & Libraries
