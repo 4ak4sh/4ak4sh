@@ -25,7 +25,7 @@ Hello there, I'm Aakash <img width= "30" src="./assets/dank hi.png" />
 ### Tools
 
 |<img width = "45" src = ./assets/windows.png>| <img width = "45" src = ./assets/vsc.png>| <img width = "48" src = ./assets/mongodb.png>|
-|--|--|--|--|
+|--|--|--|
 
 
 ### Languages & Libraries
