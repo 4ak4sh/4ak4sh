@@ -17,14 +17,14 @@ Hello world, I'm Aakash
 ```
 ● A creative soul with a passion for visual story telling.
 ● I love Blending aesthetics with functionality.
-● Learning Web Development, excited to embark on my coding journey.
+● Learning Web Development, excited to hop on my coding journey.
 ● Photography is my creative escape.
 ```
 
 ### Tools
 
-|<img width = "45" src = ./assets/windows.png>| <img width = "45" src = ./assets/vsc.png>| <img width = "48" src = ./assets/photoshop.png> | <img width = "48" src = ./assets/illustrator.png> |
-|--|--|--|--|
+| <img width = "45" src = ./assets/vsc.png>| <img width = "48" src = ./assets/photoshop.png> | <img width = "48" src = ./assets/illustrator.png> |
+|--|--|--|
 
 
 ### Languages & Libraries
