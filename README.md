@@ -12,9 +12,6 @@ Hello there, I'm Aakash
 <a href = "https://www.reddit.com/user/aakash04s"><img src = "https://img.shields.io/badge/-Reddit-ff4301?style=for-the-badge&logo=reddit&logoColor=white"></a>
 </p>
 
-
-<img width = "225" align= "right" src = "./assets/coding.svg">
-
 ### About Me!
 
 ```
