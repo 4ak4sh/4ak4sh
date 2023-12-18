@@ -2,7 +2,7 @@
 <img width = "200" src = "./assets/programmer.png">
 </p>
 <h2 align = "center">
-Hello there, I'm Aakash
+Hello world, I'm Aakash
 </h2>
 
 <p align = "center">
@@ -15,9 +15,10 @@ Hello there, I'm Aakash
 ### About Me!
 
 ```
-● I'm a programmer and a graphic designer
-● Learning full stack web development.
-● I started coding as a hobby.
+● A creative soul with a passion for visual story telling.
+● I love Blending aesthetics with functionality.
+● Learning Web Development, excited to embark on my coding journey.
+● Photography is my creative escape.
 ```
 
 ### Tools
