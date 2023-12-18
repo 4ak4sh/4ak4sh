@@ -15,14 +15,15 @@ Hello there, I'm Aakash
 ### About Me!
 
 ```
-● I'm currently learning full web stack development.
+● I'm a programmer and a graphic designer
+● learning full web stack development.
 ● I started coding as a hobby.
 ```
 
 ### Tools
 
-|<img width = "45" src = ./assets/windows.png>| <img width = "45" src = ./assets/vsc.png>| <img width = "48" src = ./assets/mongodb.png>|
-|--|--|--|
+|<img width = "45" src = ./assets/windows.png>| <img width = "45" src = ./assets/vsc.png>| <img width = "48" src = ./assets/photoshop.png> | <img width = "48" src = ./assets/illustrator.png> |
+|--|--|--|--|
 
 
 ### Languages & Libraries
