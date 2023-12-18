@@ -16,7 +16,7 @@ Hello there, I'm Aakash
 
 ```
 ● I'm a programmer and a graphic designer
-● learning full web stack development.
+● Learning full stack web development.
 ● I started coding as a hobby.
 ```
 
@@ -28,8 +28,8 @@ Hello there, I'm Aakash
 
 ### Languages & Libraries
 
-| <img width = "38" src = "./assets/node.png"/> | <img width = "44" src = ./assets/reactjs.png> |<img width = "48" src = "./assets/javascript.png" />  | <img width = "48" src = "./assets/html.png"/>|<img width = "48" src = ./assets/css.png> | <img width = "48" src = "./assets/git.png"/> | 
-|--|--|--|--|--|--|
+|<img width = "48" src = "./assets/javascript.png" />  | <img width = "48" src = "./assets/html.png"/>|<img width = "48" src = ./assets/css.png> | <img width = "48" src = "./assets/git.png"/> | 
+|--|--|--|--|
 
 
 <h3>Github Stats</h3>
