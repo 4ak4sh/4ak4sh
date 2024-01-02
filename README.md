@@ -1,6 +1,8 @@
 <p align = center>
 <img width = "200" src = "./assets/programmer.png">
 </p>
+
+<hr>
 <h2 align = "center">
 Aakash Subramanian
 </h2>
