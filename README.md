@@ -2,7 +2,7 @@
 <img width = "200" src = "./assets/programmer.png">
 </p>
 <h2 align = "center">
-Hello world, I'm Aakash
+Aakash Subramanian
 </h2>
 
 <p align = "center">
